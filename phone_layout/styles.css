@@ -1,0 +1,99 @@
+h1 {
+text-align:center;
+
+}
+
+.qer{
+position:absolute;
+top:60px;
+
+    width:450px;
+    height:450px
+}
+.wer{
+    width:450px;
+    height:450px;
+    position:absolute;
+    left:650px;
+    top:60px;
+}
+.asd{
+position:absolute;
+padding: 0.5rem 3.5rem;
+background:grey;
+text-decoration: none;
+color:white;
+left:100px;
+top:540px;
+}
+.ssd{
+position:absolute;
+padding: 0.5rem 3.5rem;
+background:grey;
+text-decoration: none;
+color:white;
+left:730px;
+top:540px;
+}
+.eer{
+    width:450px;
+    height:450px;
+    position:absolute;
+    left:1350px;
+    top:60px;
+    }
+.sdd{
+position:absolute;
+padding: 0.5rem 3.5rem;
+background:grey;
+text-decoration: none;
+color:white;
+left:1450px;
+top:540px;
+}
+
+
+.rer{
+width:550px;
+    height:550px;
+    position:absolute;
+    left:50px;
+    top:10px;
+}
+.ter{
+width:550px;
+    height:550px;
+    position:absolute;
+    left:50px;
+    top:10px;
+}
+.yer{
+ width:550px;
+    height:550px;
+    position:absolute;
+    left:50px;
+    top:10px;
+    }
+.zxc{
+padding:8rem 1rem;
+background:red;
+position:absolute;
+left:190px;
+top:560px
+}
+.xxc{
+padding:8rem 1rem;
+background:green;
+position:absolute;
+left:190px;
+top:560px
+
+}
+.сxc{
+padding:8rem 5rem;
+background:blue;
+position:absolute;
+left:100px;
+top:560px
+
+}

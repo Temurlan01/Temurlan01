@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3518726e-2c71-4f4e-89c7-245ea4f54bf0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2/Lesson30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator_pakeng/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/2.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2eUuLCaocOdZ6pCPa9fSzS2REyv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.1-2-3-4.executor": "Run",
+    "Python.1.executor": "Run",
+    "Python.11.executor": "Run",
+    "Python.12.executor": "Run",
+    "Python.2.executor": "Run",
+    "Python.3+3+3.executor": "Run",
+    "Python.Bot1.0.executor": "Run",
+    "Python.Bot_opros.executor": "Debug",
+    "Python.Class.executor": "Run",
+    "Python.GHSFZH.executor": "Run",
+    "Python.Lesson1.executor": "Run",
+    "Python.Lesson2.executor": "Run",
+    "Python.Lesson3.executor": "Run",
+    "Python.Lesson30.executor": "Run",
+    "Python.Lesson31.executor": "Run",
+    "Python.Lesson32.executor": "Run",
+    "Python.Lesson33.executor": "Run",
+    "Python.Lesson34.executor": "Run",
+    "Python.Lesson4.executor": "Run",
+    "Python.Lesson5.executor": "Run",
+    "Python.Lesson6.executor": "Run",
+    "Python.Lesson7.executor": "Run",
+    "Python.Maximum.executor": "Run",
+    "Python.Name.executor": "Run",
+    "Python.Task1.executor": "Run",
+    "Python.Task2.executor": "Run",
+    "Python.Task3.executor": "Run",
+    "Python.Task4.executor": "Run",
+    "Python.dsfgr.executor": "Run",
+    "Python.leson.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.mane.executor": "Run",
+    "Python.nev fiel,ру.executor": "Run",
+    "Python.new fiel,.executor": "Run",
+    "Python.oclock.ру.executor": "Run",
+    "Python.Наименьшее число.executor": "Run",
+    "Python.ьфшт.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/user/PycharmProjects/pythonProject1",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\pythonProject\phone_layout\Images" />
+      <recent name="C:\Users\user\PycharmProjects\pythonProject\phone_layout\images" />
+      <recent name="C:\Users\user\PycharmProjects\pythonProject\HTML Website\images" />
+      <recent name="C:\Users\user\PycharmProjects\pythonProject\1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3518726e-2c71-4f4e-89c7-245ea4f54bf0" name="Changes" comment="" />
+      <created>1711971421034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711971421034</updated>
+    </task>
+    <servers />
+  </component>
+</project>
